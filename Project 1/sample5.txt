@@ -1,0 +1,82 @@
+       25
+       25
+       25  // increment X to be 3
+       1   // Load 3 into AC
+       3
+       9   // Put 1
+       1
+       14  // Copy AC to X (3)
+       16  // Copy AC to Y (3)
+       23  // Call 72
+       72
+       15  // AC = X (3)
+       11  // add AC+Y = 6
+        9  // Put 1
+        1
+       14  // Copy AC to X (6)
+       23  // Call 72
+       72
+       15  // AC = X (6)
+       11  // add AC+Y = 9
+        9  // Put 1
+        1
+       14  // Copy AC to X (9)
+       23  // Call 72
+       72
+       15  // AC = X (9)
+       11  // add AC+Y = 12
+        9  // Put 1
+        1
+       14  // Copy AC to X (12)
+       23  // Call 72
+       72
+       15  // AC = X (12)
+       11  // add AC+Y = 15
+        9  // Put 1
+        1
+       14  // Copy AC to X (15)
+       23  // Call 72
+       72
+       15  // AC = X (15)
+       11  // add AC+Y = 18
+        9  // Put 1
+        1
+       14  // Copy AC to X (18)
+       23  // Call 72
+       72
+       15  // AC = X (18)
+       11  // add AC+Y = 21
+        9  // Put 1
+        1
+       14  // Copy AC to X (21)
+       23  // Call 72
+       72
+       15  // AC = X (21)
+       11  // add AC+Y = 24
+        9  // Put 1
+        1
+       14  // Copy AC to X (24)
+       23  // Call 72
+       72
+       15  // AC = X (24)
+       11  // add AC+Y = 27
+        9  // Put 1
+        1
+       14  // Copy AC to X (27)
+       23  // Call 72
+       72
+       15  // AC = X (27)
+       11  // add AC+Y = 30
+        9  // Put 1
+        1
+       50  // End 
+        1  // Load 10=newline
+       10 
+        9  // Put 2
+        2
+       24  // Return
+
+       .1000
+       30 // Interrupt
+      
+
