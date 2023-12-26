@@ -1,4 +1,3 @@
-CS 4348.001
 Sanjana Jadhav
 
 ## CPU.java
