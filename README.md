@@ -1,4 +1,4 @@
-# CS-4348-OS-Projects
+# OS-Projects
 
 This repository contains my projects for my Operating Systems Class.
 
